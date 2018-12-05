@@ -6,4 +6,6 @@
 *Branches
 *Student repositories
 *Github Classrom
-*Permissions 
+*Permissions
+*Exercises
+*Automated testing
